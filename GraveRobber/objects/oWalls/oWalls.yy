@@ -1,19 +1,10 @@
 {
-    "id": "5c61f1a6-ec17-4fd0-8c27-07d9468d5e93",
+    "id": "82ae9768-cdca-4354-adf3-377777ffc158",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oGameManager",
+    "name": "oWalls",
     "eventList": [
-        {
-            "id": "392c7162-adc7-4bba-a727-2092603f8805",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 82,
-            "eventtype": 9,
-            "m_owner": "5c61f1a6-ec17-4fd0-8c27-07d9468d5e93"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

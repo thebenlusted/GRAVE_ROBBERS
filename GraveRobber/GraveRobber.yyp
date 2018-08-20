@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "82ae9768-cdca-4354-adf3-377777ffc158",
+            "Value": {
+                "id": "15c44a76-0dec-4266-90d0-b5ad2d8c5d86",
+                "resourcePath": "objects\\oWalls\\oWalls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "88ff143d-7195-4f37-8b75-f98be4318ef4",
             "Value": {
                 "id": "612c51f9-a9a2-4994-8196-e1846b300a3b",
@@ -212,6 +220,14 @@
                 "id": "4b00e186-8f5d-4725-ab15-0b30e2785ad3",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d38f9fee-c69e-4df1-ba1e-3750f2d220ab",
+            "Value": {
+                "id": "7f0cb13d-2b28-4455-aafb-a358d0dbd837",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
