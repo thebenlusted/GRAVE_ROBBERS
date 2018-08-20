@@ -6,7 +6,7 @@ if keyboard_check(ord("D"))
 }
 if keyboard_check(ord("A"))
 {
-	hsp = -moveSpeed;	
+	hsp = -moveSpeed;
 	image_xscale = -1;
 }
 if keyboard_check(ord("W"))
